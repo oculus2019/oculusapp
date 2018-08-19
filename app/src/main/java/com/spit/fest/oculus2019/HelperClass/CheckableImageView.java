@@ -1,4 +1,4 @@
-package com.spit.fest.oculus2019;
+package com.spit.fest.oculus2019.HelperClass;
 
 import android.content.Context;
 import android.util.AttributeSet;

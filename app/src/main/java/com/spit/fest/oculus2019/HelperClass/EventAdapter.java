@@ -1,4 +1,4 @@
-package com.spit.fest.oculus2019;
+package com.spit.fest.oculus2019.HelperClass;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
@@ -11,6 +11,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.PopupMenu;
 import android.widget.TextView;
+
+import com.spit.fest.oculus2019.R;
 
 import java.util.ArrayList;
 

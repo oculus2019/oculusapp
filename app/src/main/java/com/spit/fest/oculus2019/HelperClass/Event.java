@@ -1,4 +1,4 @@
-package com.spit.fest.oculus2019;
+package com.spit.fest.oculus2019.HelperClass;
 
 public class Event
 {

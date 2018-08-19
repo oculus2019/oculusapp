@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "158203538938",
+    "firebase_url": "https://oculusapp-ae493.firebaseio.com",
+    "project_id": "oculusapp-ae493",
+    "storage_bucket": "oculusapp-ae493.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158203538938:android:add8f9ca15679ab8",
+        "android_client_info": {
+          "package_name": "com.spit.fest.oculus2019"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158203538938-le796u1m97it73nht9ogijak8p65ja65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spit.fest.oculus2019",
+            "certificate_hash": "81796d4ef12dafdc8affb04fc0aed366d9703172"
+          }
+        },
+        {
+          "client_id": "158203538938-8psl7k44srjg5r7buvd260o76iir8ng6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwU2nRKke2ewRfGuJnfwd67uKQTfHw6Uo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158203538938-8psl7k44srjg5r7buvd260o76iir8ng6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

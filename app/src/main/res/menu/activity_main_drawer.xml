@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:checked="true"/>
+        <item
+            android:id="@+id/nav_my_event"
+            android:title="My Event" />
+        <item
+            android:id="@+id/nav_my_registration"
+            android:title="My Registration" />
+        <item
+            android:id="@+id/nav_sponsors"
+            android:title="Sponsors" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:title="Gallery" />
+    </group>
+
+    <!--<item android:title="Communicate">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:id="@+id/nav_share"-->
+                <!--android:icon="@drawable/ic_menu_share"-->
+                <!--android:title="Share" />-->
+            <!--<item-->
+                <!--android:id="@+id/nav_send"-->
+                <!--android:icon="@drawable/ic_menu_send"-->
+                <!--android:title="Send" />-->
+        <!--</menu>-->
+    <!--</item>-->
+
+    <group
+        android:id="@+id/group2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_contact_us"
+            android:title="Contact Us" />
+        <item
+            android:id="@+id/nav_committee"
+            android:title="Committee" />
+        <item
+            android:id="@+id/nav_developers"
+            android:title="Developers" />
+    </group>
+
+    <group
+        android:id="@+id/group3"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_about_us"
+            android:title="About Us" />
+        <item
+            android:id="@+id/nav_sign_out"
+            android:title="Sign Out" />
+    </group>
+
+</menu>
